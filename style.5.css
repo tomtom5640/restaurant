@@ -1,0 +1,19 @@
+body {
+    background-color:pink;
+}
+
+.paragraphe1 {
+    color:blueviolet;
+    transform: rotate(+0.8deg);
+}
+
+.paragraphe2 {
+    border-bottom: 1px solid;
+    padding-bottom: 12px;
+}
+
+h1 {
+    color: blue;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
